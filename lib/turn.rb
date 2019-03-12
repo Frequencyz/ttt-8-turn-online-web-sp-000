@@ -39,6 +39,5 @@ def valid_move?(board, index)
   end
 end
 
-def turn(board)
-  puts ""
+
   
