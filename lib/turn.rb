@@ -45,5 +45,5 @@ def move(board, index, character = "X")
   return board
 end
 
-#
+#Asks user for a number, check if it is valid. If not, ask for a number again
   
