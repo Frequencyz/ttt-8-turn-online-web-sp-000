@@ -52,6 +52,8 @@ def turn(board)
   while user_input < 10
   user_input += 1
 end
+end
+
 
 
   
