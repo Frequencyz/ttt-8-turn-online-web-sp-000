@@ -48,6 +48,7 @@ end
 #Asks user for a number, check if it is valid. If not, ask for a number again
 def turn(board)
   puts "Please enter 1-9:"
+  user_input = 0
   
 end
 
