@@ -7,6 +7,7 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
+
 def valid_move?(board, index)
   def position_taken?(array, ind)
     if array[ind] == " " || array[ind] == "" || array[ind] == nil
