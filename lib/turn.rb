@@ -50,7 +50,8 @@ def turn(board)
   puts "Please enter 1-9:"
   user_input = 0
   while user_input < 10
-  
+  user_input += 1
 end
+
 
   
